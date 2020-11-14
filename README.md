@@ -1,7 +1,5 @@
 # Keras Image Similarity
 
----
-
 Image Similarity Search Engine for the Keras Library (Currently in Development)
 
 ```
